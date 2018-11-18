@@ -1,5 +1,5 @@
 <template>
-	<dir >
+	<dir>
   <nav class="A">
    
     <router-link to="/"><img src="../assets/img/logo-white.png" class="logo"></router-link>   
