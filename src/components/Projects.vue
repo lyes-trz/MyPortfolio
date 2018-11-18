@@ -35,8 +35,8 @@
                     
                              <div class="card-cover ">
                              	    <a href="https://github.com/ilyasjabar/MyStore" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/mystore.png" alt="">
-                                  <img class="B" src="../assets/img/mystore-hover.png" alt="">
+                                  <img class="A" src="mystore.png" alt="">
+                                  <img class="B" src="mystore-hover.png" alt="">
                                   </a> 
                                            
                              </div>                       
@@ -47,8 +47,8 @@
                     
                              <div class="card-cover ">
                              	<a href="https://github.com/ilyasjabar/MyGame" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/ij.png" alt="">
-                                  <img class="B" src="../assets/img/ij-hover.png" alt=""> 
+                                  <img class="A" src="ij.png" alt="">
+                                  <img class="B" src="ij-hover.png" alt=""> 
                                   </a>          
                              </div>                       
                      
@@ -58,8 +58,8 @@
                     
                              <div class="card-cover ">
                              	<a href="https://github.com/ilyasjabar/MyRoom" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/myroom.png" alt="">
-                                  <img class="B" src="../assets/img/myroom-hover.png" alt=""> 
+                                  <img class="A" src="myroom.png" alt="">
+                                  <img class="B" src="myroom-hover.png" alt=""> 
 
                                   </a>          
                              </div>                       
@@ -71,8 +71,8 @@
                     
                              <div class="card-cover ">
                              	<a href="https://github.com/ilyasjabar/MyCart" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/mycart.png" alt=""> 
-                                  <img class="B" src="../assets/img/mycart-hover.png" alt="">
+                                  <img class="A" src="mycart.png" alt=""> 
+                                  <img class="B" src="mycart-hover.png" alt="">
                                   </a>          
                              </div>                       
                      
@@ -83,8 +83,8 @@
                     
                              <div class="card-cover ">
                              	<a href="https://github.com/ilyasjabar/MyGame" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/mygame.png" alt=""> 
-                                  <img class="B" src="../assets/img/mygame-hover.png" alt=""> 
+                                  <img class="A" src="mygame.png" alt=""> 
+                                  <img class="B" src="mygame-hover.png" alt=""> 
                                   </a>          
                              </div>                       
                      
@@ -94,8 +94,8 @@
                     
                              <div class="card-cover ">
                              	<a href="https://github.com/ilyasjabar/MyNote" target="_blank" class="animated fadeInUp">
-                                  <img class="A" src="../assets/img/mynote.png" alt=""> 
-                                  <img class="B" src="../assets/img/mynote-hover.png" alt=""> 
+                                  <img class="A" src="mynote.png" alt=""> 
+                                  <img class="B" src="mynote-hover.png" alt=""> 
 
                                   </a>          
                              </div>                       
@@ -118,7 +118,7 @@
                     
                              <div class="mobile-cover ">
                              	<a href="" target="_blank" class="animated fadeInUp">
-                                  <img src="../assets/img/myworkout.png" alt=""> 
+                                  <img src="myworkout.png" alt=""> 
                                   </a>          
                              </div>                       
                      

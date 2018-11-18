@@ -1,8 +1,8 @@
 <template>
-	<dir>
-  <nav class="A">
+	<dir id="Header">
+  <nav>
    
-    <router-link to="/"><img src="../assets/img/logo-white.png" class="logo"></router-link>   
+    <router-link to="/"><img src="logo-white.png" class="logo"></router-link>   
     
     <router-link to="/Contact" class="items">Contact</router-link> 
     <router-link to="/Projects" class="items">Projects</router-link>
@@ -20,7 +20,7 @@
 
 <style>
      
-     .A {
+     #Header nav {
        width: 95%;
        color: white;
        min-height: 50px;
@@ -29,7 +29,7 @@
      }
      
 
-     .logo {
+     #Header .logo {
       margin-left: 1.5em;
       margin-top: 0.6em;
       float: left;
@@ -39,7 +39,7 @@
 
     
 
-     .items{
+     #Header .items{
       margin-top: 1.4em;
       float: right;
       margin-left: 15px;
@@ -51,65 +51,25 @@
      }
 
 
-     .items:hover {
+     #Header .items:hover {
      outline: none;
       color: #ff4d5a;
       text-decoration: none;
      }
 
-     .items:focus {
+     #Header .items:focus {
       
       outline: none;
       color: #ff4d5a;
       text-decoration: none;
      }
-     .items:actived {
+     #Header .items:actived {
       
       outline: none;
       color: #ff4d5a;
       text-decoration: none;
      }
    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-     #all {
-      border:1px solid ;
-      border-color: white;
-      border-radius: 5px;
-      padding: 5px;
-      font-size: 14px;
-     }
-     #all:hover {
-      background-color: #ff4d5a;
-      border-color: #ff4d5a;
-       outline: none;
-      color:white;
-      text-decoration: none;
-     }
-     #all:focus {
-      background-color: #ff4d5a;
-      border-color: #ff4d5a;
-       outline: none;
-      color:white;
-      text-decoration: none;
-     }
-
-
-
-
-
 
 </style>
 

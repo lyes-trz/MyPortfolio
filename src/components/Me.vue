@@ -3,7 +3,7 @@
      <div class="home-content">
 
         <div class="img-container zoomIn animated">
-          <img class="me" src="../assets/img/moi.jpg" alt="" style="width: 320px;">
+          <img class="me" src="moi.jpg" alt="" style="width: 320px;">
         </div>
 
         <h1><span>Hi</span>, I'm Ilyas Jabar ;)</h1>
