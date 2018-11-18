@@ -18,7 +18,7 @@
 </template>
 
 
-<style>
+<style lang="scss">
      
      #Header nav {
        width: 95%;
@@ -47,29 +47,30 @@
       font-size: 12px;
       color: white;
      
-      text-decoration: none;    
+      text-decoration: none;
+
+            &:hover {
+             outline: none;
+             color: #ff4d5a;
+             text-decoration: none;
+                 }
+            &:focus {
+             outline: none;
+             color: #ff4d5a;
+             text-decoration: none;
+                 }
+                 
+                 &:actived {
+             outline: none;
+             color: #ff4d5a;
+             text-decoration: none;
+                 }     
+
+
      }
 
 
-     #Header .items:hover {
-     outline: none;
-      color: #ff4d5a;
-      text-decoration: none;
-     }
-
-     #Header .items:focus {
-      
-      outline: none;
-      color: #ff4d5a;
-      text-decoration: none;
-     }
-     #Header .items:actived {
-      
-      outline: none;
-      color: #ff4d5a;
-      text-decoration: none;
-     }
-   
+     
 
 </style>
 

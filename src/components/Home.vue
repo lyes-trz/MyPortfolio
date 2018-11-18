@@ -45,7 +45,7 @@
 .heading-primary-sub {
   display: block;
   font-size: 16.5px;
-  font-weight: 400;
+  
   font-family: Arial;
   margin-top: 10px;
   animation-name: moveInright;

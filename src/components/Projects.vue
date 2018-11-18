@@ -46,7 +46,7 @@
                    <dir class="col-sm-12 col-md-6 col-lg-4 col-xl-4 zoomIn animated">
                     
                              <div class="card-cover ">
-                             	<a href="https://github.com/ilyasjabar/MyGame" target="_blank" class="animated fadeInUp">
+                             	<a href="https://github.com/ilyasjabar" target="_blank" class="animated fadeInUp">
                                   <img class="A" src="ij.png" alt="">
                                   <img class="B" src="ij-hover.png" alt=""> 
                                   </a>          
