@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "express": "^4.16.4",
     "firebase": "^5.5.8",
     "gh-pages": "^2.0.1",
